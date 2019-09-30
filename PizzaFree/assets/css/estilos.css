@@ -1,0 +1,147 @@
+body{
+    margin: 0px;
+    border-width: 10px;
+}
+
+.banner{
+    background-image: url(../imagens/pizzaLogo.jpg);
+    background-repeat: no-repeat;
+    border-top: #2dcc70 solid 10px;
+    display: flex;
+    background-size: cover;
+    border: 0px;
+    padding: 47px;
+}
+.principal{
+    margin-top: 63px;
+    font-size: 24px;
+    margin-left: 47px;
+}
+.titulo-principal{
+    font-family: 'Pacifico', cursive;
+    font-weight: normal;
+    font-variant-ligatures: no-contextual;
+    color: white;
+    font-size: -webkit-xxx-large;
+    
+}
+.links{
+    margin-left: 21px;
+
+}
+
+.plataformas{
+    opacity: 0.65;
+    filter: alpha (opacity=65);
+    background-color: black;
+    border-radius: 46px;
+    padding: 10px;
+}
+.ponto{
+    color: #2dcc70;
+}
+
+.paragrafo1{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size:;
+}
+.lorem{
+    background-color: #e3e3e3;
+    display: flex;
+}
+.info{
+    width: 50%;
+    margin: auto;
+}
+.segura{
+    text-align: -webkit-left;
+    margin-top: 32px;
+    margin-inline-start: 80px;
+}
+.center{
+    text-align: center;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    text-decoration-style: black solid;
+    font-size: larger;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #989898;
+    
+}
+.icones{
+    display: flex;
+    text-align: center;
+
+}
+.maria{
+    background-color: #2dcc70;
+    border-radius: 44px;
+    margin-top: auto;
+    padding: 18px;
+
+}
+footer{
+    background-color: #e3e3e3;
+    align-items: center;
+    padding: 33px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-right: 425px;
+    padding-left: 338px;
+}
+.marrom{
+    margin: 45px;
+    padding: 19px;
+}
+.video{
+    width: 425px;
+    height: 262px;
+    margin-top: 6px;
+    margin-right: 200px;
+}
+input{
+    font-family: 'Roboto', sans-serif;
+    padding: 13px;
+    padding-right: 60px;
+    border-radius: 7px;
+    font-size: 15px;
+}
+.botao{
+    background-color: #2ccc74;
+    margin: -5px;
+    padding-right: 15px;
+    padding: 13px;
+    border-radius: 9px;
+    color: white;
+    font-size: 18px;
+}
+
+label{
+    padding: 10px 20px;
+    width: 10%;
+    height: 10px;
+    border-top-right-radius: 16%;
+    border-bottom-right-radius: 16%;
+    width: 10%;
+    height: 10px;
+}
+.botao{
+    background-color:#2ccc74;
+    color: white;
+    margin-left: -6px;
+}
+input{
+    font-family: 'Roboto', sans-serif;
+    padding: 13px;
+    padding-right: 60px;
+    border-radius: 7px;
+    font-size: 15px;  
+}
+    
