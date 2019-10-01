@@ -25,11 +25,28 @@ body{
     font-size: -webkit-xxx-large;
     
 }
-.links{
-    margin-left: 21px;
-
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color:white;
 }
 
+.links{
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    margin-left: 25px;
+    font-weight: bold;
+    float: left;
+
+}
+.menu{
+    margin-left: 500px;
+    width: 50%;
+    float: left;
+
+}
 .plataformas{
     opacity: 0.65;
     filter: alpha (opacity=65);
